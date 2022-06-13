@@ -5,13 +5,13 @@ Exercício que faz a soma de dois vetores e exibe o valor da variável C
 
 Inicio
 
-    1. x==0
-    2. x<- x+1
+    1. x == 0
+    2. x == x+1
     3. A[x],B[x]
-    4. Se x>4 
-    5. X <- 1
-    6. C <- 0
-    7. Se x<==5
+    4. Se x > 4 
+    5. x == 1
+    6. C == 0
+    7. Se x <= 5
     8. C <- C + A[x] * B[x]
 
 Fim    
