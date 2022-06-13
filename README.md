@@ -1,6 +1,8 @@
 # Vetores_A_e_B
 Exercício que faz a soma de dois vetores e exibe o valor da variável C
 ------------------------------------------------------
+# ALGORITMO DO EXERCÍCIO
+
 Inicio
 
     1. x==0
