@@ -14,6 +14,8 @@ Inicio
     7. Fim enquanto
     8. Se x <= 5
     9. C = C + A[x] * B[x]
+    10. x = x + 1
+    11. Exibe o valor de C
 
 Fim    
  
