@@ -13,7 +13,7 @@ Inicio
     6. C == 0
     7. Fim enquanto
     8. Se x <= 5
-    9. C <- C + A[x] * B[x]
+    9. C = C + A[x] * B[x]
 
 Fim    
  
