@@ -11,8 +11,9 @@ Inicio
     4. Se x > 4 
     5. x == 1
     6. C == 0
-    7. Se x <= 5
-    8. C <- C + A[x] * B[x]
+    7. Fim enquanto
+    8. Se x <= 5
+    9. C <- C + A[x] * B[x]
 
 Fim    
  
